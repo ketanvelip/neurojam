@@ -11,7 +11,7 @@
 -   **AI Bandmate**: Integrated with **Google Gemini API** (`gemini-2.5-flash`) to generate infinite coding levels.
 -   **Scoring System**: Get points for staying on beat and typing correctly.
 -   **Visuals**: Dynamic animations and feedback using Framer Motion.
--   **Audio**: Web Audio API (Tone.js) for precise timing and metronome.
+-   **Audio**: Web Audio API (Tone.js) featuring a **Synthwave backing track** (Drums + Bass) and precise timing.
 
 ## Tech Stack
 
